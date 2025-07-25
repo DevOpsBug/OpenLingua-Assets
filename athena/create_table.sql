@@ -15,4 +15,3 @@ TBLPROPERTIES (
   'classification' = 'csv',
   'skip.header.line.count' = '1'
 );
-
