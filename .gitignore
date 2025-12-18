@@ -1,0 +1,12 @@
+.~lock.*#
+*.lock
+*.lck
+*.swp
+*.ignore
+
+.vscode/
+.idea/
+*.code-workspace
+
+*.log
+
